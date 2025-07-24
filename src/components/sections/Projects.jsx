@@ -60,7 +60,7 @@ export const Projects = () => {
               <p className="text-gray-400 mb-4">
                 A modern web app for selling vegetables and fruits, featuring user authentication
                 (customers and vendors), a dynamic shopping cart, and visually appealing design with
-                React and Tailwind CSS.
+                React and Tailwind CSS.<br/>
                 **Key Features:**  
                 - Login for users and vendors  
                 - Cart functionality  
