@@ -9,7 +9,7 @@ export const About = () => {
     "TailwindCSS"
   ];
 
-  const backendSkills = ["Python","Node.js","Express.js",",MongoDB"];
+  const backendSkills = ["Python","Node.js","Express.js","MongoDB"];
 
   return (
     <section
