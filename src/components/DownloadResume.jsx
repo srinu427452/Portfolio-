@@ -32,7 +32,7 @@ const DownloadResume = () => {
   };
 
   return (
-    <div className="flex justify-center items-center p-4 h-100" id="Resume">
+    <div className="flex justify-center items-center p-4 h-160" id="Resume">
       <div className="button-bg rounded-full p-0.5 hover:scale-105 transition duration-300 active:scale-100">
         <button
           onClick={handleDownload}
