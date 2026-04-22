@@ -4,7 +4,7 @@ import { Download } from 'lucide-react';
 const DownloadResume = () => {
   //  const handleDownload = async () => {
   //   try {
-  //     const response = await fetch('/srinuResume.pdf');
+  //     const response = await fetch('/SRINU MERN STACK RESUMEe.pdf');
   //     if (!response.ok) {
   //       throw new Error('File not found');
   //     }
@@ -12,7 +12,7 @@ const DownloadResume = () => {
   //     const url = window.URL.createObjectURL(blob);
   //     const link = document.createElement('a');
   //     link.href = url;
-  //     link.download = 'srinuResume.pdf';
+  //     link.download = 'SRINU MERN STACK RESUMEe.pdf';
   //     document.body.appendChild(link);
   //     link.click();
   //     document.body.removeChild(link);
@@ -23,8 +23,8 @@ const DownloadResume = () => {
   //   }
   const handleDownload = () => {
     const link = document.createElement('a');
-    link.href = '/srinuResume.pdf';
-    link.download = 'srinuResume.pdf';
+    link.href = '/SRINU MERN STACK RESUMEe.pdf';
+    link.download = 'SRINU MERN STACK RESUMEe.pdf';
     link.target = '_blank';
     document.body.appendChild(link);
     link.click();
