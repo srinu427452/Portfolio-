@@ -23,8 +23,8 @@ const DownloadResume = () => {
   //   }
   const handleDownload = () => {
     const link = document.createElement('a');
-    link.href = '/SRINU MERN STACK RESUMEe.pdf';
-    link.download = 'SRINU MERN STACK RESUMEe.pdf';
+    link.href = '/SRINU MERN STACK RESUME.pdf';
+    link.download = 'SRINU MERN STACK RESUME.pdf';
     link.target = '_blank';
     document.body.appendChild(link);
     link.click();
